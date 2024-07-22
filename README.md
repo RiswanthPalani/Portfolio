@@ -1,6 +1,7 @@
 # About
 
-It is a personal portfolio responsive and dynamic website
+It is a personal portfolio responsive and dynamic website.
+It is developed using  reactjs, react-bootsrap. 
 
 # Run the program
 
@@ -18,6 +19,9 @@ Website will be visible on "https://localhost:3000"
 
 # Website pictures
 
+![screenshot](screenshots/Screenshot%202024-07-21%20191209.png)
+![Screenshot](screenshots/Screenshot%202024-07-21%20192625.png)
+![Screenshot](screenshots/Screenshot%202024-07-22%20202452.png)
 
 
 
